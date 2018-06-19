@@ -1,0 +1,22 @@
+{
+  "name": "ckeditor5-super-sub",
+  "version": "1.0.2",
+  "description": "Superscript/subscript plugin for ckeditor5",
+  "keywords": [
+    "ckeditor5",
+    "superscript",
+    "subscript",
+    "super",
+    "sub"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mjadobson/ckeditor5-super-sub.git"
+  },
+  "author": "mjadobson@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "@ckeditor/ckeditor5-core": "^10.0.0",
+    "@ckeditor/ckeditor5-ui": "^10.0.0"
+  }
+}
