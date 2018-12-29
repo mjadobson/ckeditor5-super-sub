@@ -1,5 +1,5 @@
 {
-  "name": "ckeditor5-super-sub",
+  "name": "ckeditor5-super-sub-upd",
   "version": "1.0.2",
   "description": "Superscript/subscript plugin for ckeditor5",
   "keywords": [
@@ -17,6 +17,6 @@
   "license": "MIT",
   "dependencies": {
     "@ckeditor/ckeditor5-core": "^11.1.0",
-    "@ckeditor/ckeditor5-ui": "^10.2.0"
+    "@ckeditor/ckeditor5-ui": "^11.2.0"
   }
 }
