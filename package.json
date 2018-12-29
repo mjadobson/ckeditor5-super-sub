@@ -16,7 +16,7 @@
   "author": "mjadobson@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "@ckeditor/ckeditor5-core": "^10.0.0",
-    "@ckeditor/ckeditor5-ui": "^10.0.0"
+    "@ckeditor/ckeditor5-core": "^11.1.0",
+    "@ckeditor/ckeditor5-ui": "^10.2.0"
   }
 }
